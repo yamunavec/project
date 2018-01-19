@@ -62,3 +62,20 @@ margin: 0 auto;
 #but{
   background-color: #ff3b2e;
 }
+.divide{
+  color: white;
+  width: 50%;
+  padding-left: 10px;
+  display: inline-block;
+  box-sizing: border-box;
+
+}
+.language_div{
+  padding-left: 0;
+}
+footer img{
+  height: 30px;
+  width: 30px;
+  padding: 10px 10px;
+  display: inline-block;
+}
